@@ -32,6 +32,7 @@ I build software companies and the products they run on. I lead **Espenenza** an
 
 Hiring, need a project built, or want to partner?
 
+- 🌐 Portfolio: [profgekonge.github.io/profgekonge1](https://profgekonge.github.io/profgekonge1/)
 - 💼 LinkedIn: [Fidelis Gekonge](https://www.linkedin.com/in/fidelis-gekonge-12126b310/)
 - 🐦 X: [@profgekonge1](https://x.com/profgekonge1)
 - ✉️ Email: [fidgek2@gmail.com](mailto:fidgek2@gmail.com)
